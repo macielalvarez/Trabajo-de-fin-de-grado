@@ -1,0 +1,16 @@
+system:index;Estacion;Fecha;RET_mm_dia;,geo;Unnamed: 5;Precipitación (mm);ETo (mm);Mes;Kc;ETc (mm);RN (mm)
+WAPOR-3_L1-RET-E_2020-03-10;Requena cerrito;2020-03-10;33,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;3,3;3,0;0,25;0,825;0,825
+WAPOR-3_L1-RET-E_2020-07-10;Requena cerrito;2020-07-10;64,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;6,4;7,0;0,85;5,44;5,44
+WAPOR-3_L1-RET-E_2020-09-10;Requena cerrito;2020-09-10;41,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;4,1;9,0;0,9;3,69;3,69
+WAPOR-3_L1-RET-E_2021-03-10;Requena cerrito;2021-03-10;25,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;2,5;3,0;0,25;0,625;0,625
+WAPOR-3_L1-RET-E_2021-07-10;Requena cerrito;2021-07-10;67,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;6,7;7,0;0,85;5,695;5,695
+WAPOR-3_L1-RET-E_2021-09-10;Requena cerrito;2021-09-10;50,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;5,0;9,0;0,9;4,5;4,5
+WAPOR-3_L1-RET-E_2022-03-10;Requena cerrito;2022-03-10;22,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;2,2;3,0;0,25;0,55;0,55
+WAPOR-3_L1-RET-E_2022-07-10;Requena cerrito;2022-07-10;76,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;7,6;7,0;0,85;6,46;6,46
+WAPOR-3_L1-RET-E_2022-09-10;Requena cerrito;2022-09-10;48,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;4,8;9,0;0,9;4,32;4,32
+WAPOR-3_L1-RET-E_2023-03-10;Requena cerrito;2023-03-10;39,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;3,9;3,0;0,25;0,975;0,975
+WAPOR-3_L1-RET-E_2023-07-10;Requena cerrito;2023-07-10;70,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;7,0;7,0;0,85;5,95;5,95
+WAPOR-3_L1-RET-E_2023-09-10;Requena cerrito;2023-09-10;43,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,1;4,3;9,0;0,9;3,87;3,77
+WAPOR-3_L1-RET-E_2024-03-10;Requena cerrito;2024-03-10;20,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,6;2,0;3,0;0,25;0,5;0,0
+WAPOR-3_L1-RET-E_2024-07-10;Requena cerrito;2024-07-10;72,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;7,2;7,0;0,85;6,12;6,12
+WAPOR-3_L1-RET-E_2024-09-10;Requena cerrito;2024-09-10;47,0;"{""type"":""MultiPoint"",""coordinates"":[]}";;0,0;4,7;9,0;0,9;4,23;4,23

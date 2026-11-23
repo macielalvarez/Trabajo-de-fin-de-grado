@@ -1,0 +1,16 @@
+Provincia;Termino;Estación;Fecha;Temperatura media;Temperatura máxima;Hora temperatura máxima;Temperatura mínima;Hora temperatura mínima;Horas frío;Humedad relativa media;Humedad relativa máxima;Humedad relativa mínima;Velocidad del viento media (Km/h);Dirección del viento media;Racha máxima (Km/h);Hora racha máxima;Radiación (MJ/m²);Horas sol;Precipitación (mm);ETo (mm);Estado;Mes;Kc;ETc (mm);RN IVIA(mm);RN GEE(mm);;
+València;Montesa;Montesa;10/03/2020;16,6;25,36;16:00;7,32;4:10;0;45,33;69,02;24,9;2,3;S;13,41;23:47;15,98;9,69;0;2,57;Sin incidencias;3;0,25;0,6425;0,6425;0,675;;
+València;Montesa;Montesa;10/07/2020;24,6;31,43;13:10;18,05;4:50;0;69,85;93,1;41,76;2,62;N;15,13;14:33;26,7;12,34;0;5,27;Sin incidencias;7;0,85;4,4795;4,4795;5,1;;
+València;Montesa;Montesa;10/09/2020;21,95;30,8;14:30;15,13;6:00;0;64,23;90,2;33,52;1,51;SE;11,33;11:03;21,85;10,42;0;3,64;Sin incidencias;9;0,9;3,276;3,276;3,69;;
+València;Montesa;Montesa;10/03/2021;11,27;18,93;15:00;4,73;6:30;5;74,2;100;33,35;2,14;SO;11,25;11:18;20,73;10,19;0;2,4;Sin incidencias;3;0,25;0,6;0,6;0,575;;
+València;Montesa;Montesa;10/07/2021;25,93;36,56;15:10;16,53;5:10;0;60,42;91,9;26,74;1,84;S;12,74;16:02;29,99;12,5;0;5,86;Sin incidencias;7;0,85;4,981;4,981;5,44;;
+València;Montesa;Montesa;10/09/2021;25,48;33,4;14:00;18,83;5:00;0;61,87;94,3;27,28;2,03;SO;12,91;8:02;21,49;11,04;0;4,04;Sin incidencias;9;0,9;3,636;3,636;4,32;;
+València;Montesa;Montesa;10/03/2022;11,02;18,68;14:10;4,33;5:40;5;81,8;99,6;44,39;1,98;S;11,43;14:46;17,64;8,93;0;2,13;Sin incidencias;3;0,25;0,5325;0,5325;0,575;;
+València;Montesa;Montesa;10/07/2022;27,43;36,87;15:10;17,9;5:00;0;54,65;84,9;26,74;1,75;E;10,3;10:46;29,66;12,31;0;5,87;Sin incidencias;7;0,85;4,9895;4,9895;5,61;;
+València;Montesa;Montesa;10/09/2022;26,34;33,05;13:20;21,8;5:40;0;72,1;91;46,77;1,26;NE;10,58;13:32;21,98;11,05;0;4,08;Sin incidencias;9;0,9;3,672;3,672;4,14;;
+València;Montesa;Montesa;10/03/2023;18,86;23,78;15:20;14,88;6:50;0;44,78;61,45;31,29;8,34;O;28,94;6:56;17,7;9,85;0;4,11;Sin incidencias;3;0,25;1,0275;1,0275;1,1;;
+València;Montesa;Montesa;10/07/2023;27,33;34,27;14:50;22,82;23:50;0;74,7;97,8;50,84;2,01;NE;13,97;18:01;22,39;11,12;0;4,83;Sin incidencias;7;0,85;4,1055;4,1055;4,845;;
+València;Montesa;Montesa;10/09/2023;23,62;28,98;12:50;19,3;6:00;0;81,3;99,1;56,43;2,2;NE;16,79;12:58;17,66;10,81;0;3,32;Sin incidencias;9;0,9;2,988;2,988;3,42;;
+València;Montesa;Montesa;10/03/2024;11,8;17,9;16:00;4,66;4:00;6,5;56,99;82,3;34,62;5,63;SO;22,3;13:58;14,19;9,89;0;2,54;Sin incidencias;3;0,25;0,635;0,635;0,725;;
+València;Montesa;Montesa;10/07/2024;28,52;38,59;13:20;19,76;4:50;0;62,15;100;20,9;2,39;NE;15,91;16:32;26,92;12,15;0;5,86;Sin incidencias;7;0,85;4,981;4,981;6,12;;
+València;Montesa;Montesa;10/09/2024;23,88;32,58;14:00;17,24;4:50;0;76,4;100;37,89;2,34;S;15,24;16:55;20,71;10,49;0;3,91;Sin incidencias;9;0,9;3,519;3,519;4,23;;

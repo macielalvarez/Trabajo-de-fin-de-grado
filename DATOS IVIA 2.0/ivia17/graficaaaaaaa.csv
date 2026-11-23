@@ -1,0 +1,16 @@
+Provincia;Termino;Estación;Fecha;Temperatura media;Temperatura máxima;Hora temperatura máxima;Temperatura mínima;Hora temperatura mínima;Horas frío;Humedad relativa media;Humedad relativa máxima;Humedad relativa mínima;Velocidad del viento media (Km/h);Dirección del viento media;Racha máxima (Km/h);Hora racha máxima;Radiación (MJ/m²);Horas sol;Precipitación (mm);ETo (mm);Estado;Mes;Kc;ETc (mm);RN IVIA(mm);RN GEE(mm)
+Alacant;Villena;Villena;10/03/2020;13,24;23,14;14:30;5,96;5:00;2,5;56,58;90,8;25,42;7,97;NO;26,21;17:47;19,97;9,96;0;3,88;Sin incidencias;3;0,25;0,97;0,97;0,65
+Alacant;Villena;Villena;10/07/2020;24,97;32,73;13:50;17,88;5:10;0;63,91;94,2;30,53;7,53;NO;24,73;14:21;29,71;12,79;0;6,83;Sin incidencias;7;0,85;5,8055;5,8055;4,93
+Alacant;Villena;Villena;10/09/2020;20,09;28,43;12:30;12,29;5:20;0;72,1;92,9;35,33;5,61;SO;23,5;16:57;20,58;10,92;0;4,2;Sin incidencias;9;0,9;3,78;3,78;3,69
+Alacant;Villena;Villena;10/03/2021;8,76;16,82;16:10;0,42;5:40;11;74,1;97,5;31,47;5,36;NO;23,14;11:10;19,58;10,1;0,2;2,64;Sin incidencias;3;0,25;0,66;0,46;0,375
+Alacant;Villena;Villena;10/07/2021;23,42;32,08;13:50;12,43;4:10;0;51,96;91,8;23,72;6,3;S;21,77;10:32;28,21;12,68;0;6,33;Sin incidencias;7;0,85;5,3805;5,3805;5,61
+Alacant;Villena;Villena;10/09/2021;23,82;31,61;15:30;15,98;5:50;0;53,96;78,1;24,39;5,99;O;19,97;11:00;19,43;10,27;0;4,81;Sin incidencias;9;0,9;4,329;4,329;4,23
+Alacant;Villena;Villena;10/03/2022;8,49;16,55;13:40;-0,12;6:10;9;78,2;96,1;41,12;6,84;S;22,65;16:12;18,59;9,67;0;2,59;Sin incidencias;3;0,25;0,6475;0,6475;0,575
+Alacant;Villena;Villena;10/07/2022;24,67;32,49;13:40;15,19;4:30;0;54,98;93,4;27,63;5,54;S;19,12;14:13;28,48;12,49;0;6,23;Sin incidencias;7;0,85;5,2955;5,2955;5,525
+Alacant;Villena;Villena;10/09/2022;24,39;31,07;13:40;18,28;23:50;0;63,94;91,2;29,12;5,78;S;19,4;11:35;21,06;10,66;0;4,76;Sin incidencias;9;0,9;4,284;4,284;3,87
+Alacant;Villena;Villena;10/03/2023;16,13;21,21;15:10;12,02;6:30;0;53,43;70,8;33,55;17,78;NO;41,54;10:07;16,26;9,54;0;4,74;Sin incidencias;3;0,25;1,185;1,185;1,125
+Alacant;Villena;Villena;10/07/2023;27,84;35,84;14:40;20,31;1:40;0;66,12;94,3;33,29;5,94;S;20,07;22:01;26,7;11,99;0;6,51;Sin incidencias;7;0,85;5,5335;5,5335;4,76
+Alacant;Villena;Villena;10/09/2023;22,18;28,66;15:40;16,46;1:50;0;74,5;97;41,42;4,44;S;19,83;12:49;20,14;10,95;0;3,96;Sin incidencias;9;0,9;3,564;3,564;3,42
+Alacant;Villena;Villena;10/03/2024;9,45;14,63;16:00;3,19;3:20;8;64,21;84,1;42,11;11,26;O;34,56;15:14;12,76;10,14;0,8;2,6;Sin incidencias;3;0,25;0,65;0;0
+Alacant;Villena;Villena;10/07/2024;26,86;37,1;12:50;16,32;5:00;0;55,46;92,1;14,92;5,06;S;20,21;13:46;27,26;12,67;0;6,66;Sin incidencias;7;0,85;5,661;5,661;6,035
+Alacant;Villena;Villena;10/09/2024;21,97;31,38;12:50;14,38;5:30;0;73,9;97,7;21,14;5;N;20,32;16:07;20,56;10,8;0;4,56;Sin incidencias;9;0,9;4,104;4,104;3,96

@@ -1,0 +1,16 @@
+Provincia;Termino;Estación;Fecha;Temperatura media;Temperatura máxima;Hora temperatura máxima;Temperatura mínima;Hora temperatura mínima;Horas frío;Humedad relativa media;Humedad relativa máxima;Humedad relativa mínima;Velocidad del viento media (Km/h);Dirección del viento media;Racha máxima (Km/h);Hora racha máxima;Radiación (MJ/m²);Horas sol;Precipitación (mm);ETo (mm);Estado;Mes;Kc;ETc (mm);RN IVIA(mm);RN GEE(mm);;;;;
+València;Chulilla;Chulilla;10/03/2020;13,8;18,98;16:20;8,56;23:40;0;48,87;80,6;32,69;5,23;O;25,34;1:16;10,09;10,08;0;2,38;Sin incidencias;3;0,25;0,595;0,595;0,75;;;;;
+València;Chulilla;Chulilla;10/07/2020;24,56;31,38;12:00;17,67;4:40;0;55,91;88,4;36,62;4,15;S;20,57;12:31;28,97;13,05;0;5,9;Sin incidencias;7;0,85;5,015;5,015;5,27;;;;;
+València;Chulilla;Chulilla;10/09/2020;21,26;28,52;14:10;15,35;0:00;0;63,29;93,8;36,49;3,69;O;18,17;16:23;21,66;11,18;0;3,97;Sin incidencias;9;0,9;3,573;3,573;3,51;;;;;
+València;Chulilla;Chulilla;10/03/2021;9,07;16,45;14:50;4,44;6:20;9,5;72,3;97,5;34,87;5,89;O;22,76;7:16;20,27;10,15;0;2,65;Sin incidencias;3;0,25;0,6625;0,6625;0,575;;;;;
+València;Chulilla;Chulilla;10/07/2021;24,05;32,49;13:30;14,75;4:30;0;62,13;94,8;30,43;3,09;SE;14,92;11:37;28,12;12,73;0;5,59;Sin incidencias;7;0,85;4,7515;4,7515;5,525;;;;;
+València;Chulilla;Chulilla;10/09/2021;22,69;31,3;14:20;16,67;23:20;0;66,35;95,8;30,22;4,09;O;22,9;11:48;20,98;10,85;0;4,29;Sin incidencias;9;0,9;3,861;3,861;3,87;;;;;
+València;Chulilla;Chulilla;10/03/2022;9,34;16,05;12:40;2,7;6:00;8;81,9;98,3;54,98;4,08;E;19,93;13:52;16,36;9,76;0;2,02;Sin incidencias;3;0,25;0,505;0,505;0,525;;;;;
+València;Chulilla;Chulilla;10/07/2022;25,69;33,29;13:20;17,4;2:30;0;46,62;77,1;25,55;4,59;SE;23,92;13:03;27,94;12,94;0;6,16;Sin incidencias;7;0,85;5,236;5,236;6,035;;;;;
+València;Chulilla;Chulilla;10/09/2022;23,98;31,02;13:30;18,2;5:40;0;70;95,3;48,88;3,5;S;16,9;16:15;21,64;10,68;0;4,15;Sin incidencias;9;0,9;3,735;3,735;4,05;;;;;
+València;Chulilla;Chulilla;10/03/2023;18,4;24,35;14:20;12,56;5:20;0;41,7;57,9;27,5;11,78;O;36,83;0:42;17,66;9,97;0;4,84;Sin incidencias;3;0,25;1,21;1,21;0,875;;;;;
+València;Chulilla;Chulilla;10/07/2023;26,08;33,23;15:20;20,2;2:30;0;69,55;94,2;41,42;2,6;SE;14,36;15:32;25,61;12,41;0;5,33;Sin incidencias;7;0,85;4,5305;4,5305;5,355;;;;;
+València;Chulilla;Chulilla;10/09/2023;21,74;28,66;12:30;16,08;4:40;0;77,1;97,2;44,04;2,66;E;16,72;14:58;20,93;10,93;0;3,71;Sin incidencias;9;0,9;3,339;3,339;3,69;;;;;
+València;Chulilla;Chulilla;10/03/2024;10,64;15,33;14:50;6,89;23:40;0;61,39;82,3;43,64;13,65;O;37,22;4:10;14,76;9,59;0;2,95;Sin incidencias;3;0,25;0,7375;0,7375;0,475;;;;;
+València;Chulilla;Chulilla;10/07/2024;26,35;34,77;12:30;18,74;2:10;0;64,94;92,8;31,89;4,44;S;19,79;13:14;28,73;12,91;0;6,32;Sin incidencias;7;0,85;5,372;5,372;6,035;;;;;
+València;Chulilla;Chulilla;10/09/2024;22,04;30,73;12:50;17,01;23:20;0;63,84;93,4;34,7;4,51;SO;20,29;13:46;21,89;11,01;0;4,4;Sin incidencias;9;0,9;3,96;3,96;3,87;;;;;
